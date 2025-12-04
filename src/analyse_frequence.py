@@ -12,8 +12,6 @@ def compter_lettres(texte):
     return dict(Counter(lettres))
 
 
-
-
 # -------------------------------------------------------------------------
 # ESPACE TAMPON POUR LIMITER LES RISQUES DE CONFLIT
 # -------------------------------------------------------------------------
